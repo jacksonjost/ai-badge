@@ -3,7 +3,6 @@ This project attempts to provide a straightforward manner in which to disclose g
 
 AI-Badge currently has an L2 ADL.
 
-Inital badge outline:
 ## AI Development Levels (ADL)
 
 | Level | Name         | Definition                                                                                                                                                                              |
