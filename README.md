@@ -1,4 +1,4 @@
-# llm-disclosure-badge
+# LLM/AI Disclosure Badge
 A badge to clarify AI/LLM usage. 
 
 This project currently has an L2 ADL.
