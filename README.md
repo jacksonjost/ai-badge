@@ -1,7 +1,7 @@
 # LLM/AI Disclosure Badge
 This project attempts to provide a straightforward manner in which to disclose generative AI usage. We provide six levels of involvement, with corresponding descriptions given below. The system is designed with worst-case in mind, meaning that the level of AI involvement will increase regardless of how often a certain method is used. As an example, say a project has 5000 human-written L0 PRs but one autonomous PR from Claude; this example project will get an L6 ADL.
 
-This project currently has an L2 ADL.
+AI-Badge currently has an L2 ADL.
 
 Inital badge outline:
 ## AI Development Levels (ADL)
