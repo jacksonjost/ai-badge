@@ -1,5 +1,5 @@
 # LLM/AI Disclosure Badge
-A badge to clarify AI/LLM usage. 
+This project attempts to provide a straightforward manner in which to disclose generative AI usage. We provide six levels of involvment, with corresponding descriptions given below.
 
 This project currently has an L2 ADL.
 
@@ -15,3 +15,6 @@ Inital badge outline:
 | L4    | Generative   | Generative AI creates implementations in response to requests; a human selects and incorporates these outputs.                                                                                       |
 | L5    | Agentic      | Generative AI executes multiple or multi-step tasks, edits files, or runs tools, but a human controls the overall integration. This level implies a human reviews the vast majority of pushed code. |
 | L6    | Autonomous   | Generative AI leads the given project, and changes can be integrated or released without human approval or supervision. Any project where less than 2/3 of the source code is directly reviewed by humans or code is pushed directly by agents automatically falls into this category.   |
+
+
+Ideal use cases of this tool include new graduates, students, or anyone else who works on projects where there will be eventual interest in the level of AI/LLM involvement. This is a self-disclosure tool; it does not monitor commits, nor does it provide quantitative descriptors of AI usage.
